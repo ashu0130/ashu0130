@@ -16,11 +16,11 @@ Passionate about transforming raw data into actionable insights through analytic
 
 ### 🚀 About Me
 
-- 📊 Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and Machine Learning
-- 🌱 Currently exploring **Generative AI, NLP, and Advanced Machine Learning**
-- 💡 Interested in **Data Analytics, Business Intelligence, and AI-powered Solutions**
+- 📊 Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI and Machine Learning
+- 🌱 Currently exploring **Generative AI, NLP and Advanced Machine Learning**
+- 💡 Interested in **Data Analytics, Business Intelligence and AI-powered Solutions**
 - 👨‍💻 All of my projects are available at: **https://github.com/ashu0130**
-- 💬 Ask me about **Python, SQL, Power BI, EDA, Machine Learning, and Data Visualization**
+- 💬 Ask me about **Python, SQL, Power BI, EDA, Machine Learning and Data Visualization**
 - 📫 Reach me at: **ashu9559singh@gmail.com**
 - ⚡ Fun fact: **I enjoy uncovering insights from data as much as I enjoy long highway rides**
 
@@ -38,7 +38,7 @@ Passionate about transforming raw data into actionable insights through analytic
 
 #### 🎵 Spotify Data Analysis
 - Exploratory Data Analysis project uncovering listening patterns and music trends
-- Built using Python, Pandas, Matplotlib, and Seaborn
+- Built using Python, Pandas, Matplotlib and Seaborn
 
 ---
 
@@ -53,7 +53,7 @@ Passionate about transforming raw data into actionable insights through analytic
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
 </a>
 
-<a href="https://medium.com/" target="blank">
+<a href="https://medium.com/@ashu9559singh" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
 </a>
 </p>
