@@ -5,7 +5,7 @@
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Machine Learning</h3>
 
 <p align="center">
-Passionate about transforming raw data into actionable insights through analytics, visualization, and machine learning.
+Passionate about transforming raw data into actionable insights through analytics, visualization and machine learning.
 </p>
 
 <p align="left">
