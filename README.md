@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:182848&height=220&section=header&text=Ashutosh%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Machine Learning</h3>
 
@@ -90,13 +93,3 @@ Passionate about transforming raw data into actionable insights through analytic
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashu0130&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0130&layout=compact" />
-</p>
